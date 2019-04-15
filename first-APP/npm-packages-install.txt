@@ -1,0 +1,9 @@
+
+// INSTALL SPECIFIC VERSION OF npm: npm i -g npm@<version-number>
+
+// IN ORDER TO USE npm PACKAGES YOU NEED THE package.json file:
+// In order to create this run npm init in the folder where you need that for your project
+
+
+// INSTALL/UPDATE A npm PACKAGE:
+npm i <package-name>git 

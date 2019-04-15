@@ -1,5 +1,6 @@
 
 /*
+
 // There are Global objects and functions available globally in Node:
 
 console.log();
